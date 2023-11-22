@@ -1,0 +1,55 @@
+h1 {
+    font-family: Garamond, serif;
+}
+
+h2 {
+    font-family: Garamond, serif;
+    display: inline;
+}
+
+#title > div > div > div:nth-child(2) > div.me > img {
+    border-radius: 50%;
+}
+
+#title {
+    background-color: #E0F4FF;
+}
+
+#navbar-body {
+    background-color: #87C4FF;
+}
+
+.my-5 {
+    background-color: white;
+}
+
+.row {
+    text-align: center;
+}
+
+.container > .row {
+    justify-content: center;
+    align-items: center;
+
+}
+
+#icon-grid > div {
+    justify-content: center;
+    align-items: center;
+}
+
+#mydetails > div > div > div.skill.col-lg-4.col-sm-12 > div.html-img > p {
+    display: inline;
+}
+
+#mydetails > div > div > div.skill.col-lg-4.col-sm-12 > div:nth-child(4) > p {
+    display: inline;
+}
+
+#mydetails > div > div > div.skill.col-lg-4.col-sm-12 > div:nth-child(5) > p {
+    display: inline;
+}
+
+#footer {
+    background-color: #E0F4FF;
+}
